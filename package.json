@@ -1,6 +1,5 @@
 {
-  "homepage": "https://bhargavamatta.github.io/maintenance-task-app",
-  "name": "maintenance-task-rotation",
+  "name": "maintenance-task-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
